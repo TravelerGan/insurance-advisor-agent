@@ -1,0 +1,10 @@
+credential:
+  dashscope_apikey:
+    apikey: ""
+
+function:
+  rerank:
+    model:
+      providers:
+        ali:
+          credential: dashscope_apikey
